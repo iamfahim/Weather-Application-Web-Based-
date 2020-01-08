@@ -1,0 +1,1 @@
+This is my first JavaScripts project. I used darksky api for the weather data by using the geolocation as like longitude and latitude.
